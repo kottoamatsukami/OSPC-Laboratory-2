@@ -1,0 +1,3 @@
+C:/Users/Enterprice/Documents/Programming/Projects/OSPC-Laboratory-2/cmake-build-debug/CMakeFiles/OSPC_Laboratory_2.dir
+C:/Users/Enterprice/Documents/Programming/Projects/OSPC-Laboratory-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Enterprice/Documents/Programming/Projects/OSPC-Laboratory-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
