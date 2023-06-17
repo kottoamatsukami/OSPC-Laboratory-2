@@ -1,0 +1,3 @@
+/home/enterprice/Documents/Laboratory-AKOS-2/demon/CMakeFiles/demon.dir
+/home/enterprice/Documents/Laboratory-AKOS-2/demon/CMakeFiles/edit_cache.dir
+/home/enterprice/Documents/Laboratory-AKOS-2/demon/CMakeFiles/rebuild_cache.dir
