@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/demon.dir/daemon.c.o CMakeFiles/demon.dir/gps_driver.c.o -o demon 
